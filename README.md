@@ -26,8 +26,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ## File Structure
 
 - `sarchv1.py`: The main script containing the AI model logic.
-- `config.json`: Contains model configurations.
-- `requirements.txt`: Lists all dependencies.
 
 ## Usage
 
